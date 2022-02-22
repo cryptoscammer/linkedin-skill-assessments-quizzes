@@ -337,3 +337,31 @@
 - [ ] Finish-to-Start (FS)
 - [ ] Start-to-Finish (SF)
 - [x] Finish-to-Finish (FF)
+
+#### Q45. You are working on a server consolidation project. The project is at a point where work cannot continue until a server replacement part, which is delayed in transit, is delivered. To account for the delay while waiting for the part, how can you best modify the project without changing the duration?
+
+- [] Set the waiting time with adjusted work units.
+- [] Set the waiting time as lead.
+- [] Set the waiting time as edays.
+- [] set the waiting time as lag.
+
+#### Q46. A certain resource has a workload that varies for a task. The task spans five days and is slow to start, ramps up in the middle, and then eventually tapers off as it comes to an end. Which approach would you use to adjust and represent varying workload?
+
+- [] Resource splitting.
+- [] Resource constraining.
+- [] Resource contouring.
+- [] Resource leveling.
+
+#### Q47. You want an overview of a project. Which option provides information including factors affecting an individual task's start date and any overallocations?
+
+- [] the Task Usage view.
+- [] a task sheet.
+- [] a burndown report.
+- [] the task inspector.
+
+#### Q48. You are managing a project that has numerous tasks with date constraints. You want to see all of the constraints so you can verify them and make any changes if necessary. How can you best see all tasks with constraints?
+
+- [] From the **View** tab on the ribbon, in the **Data** group, select **Highlight > Date Range.**
+- [] From the **View** tab on the ribbon, in the **Zoom** group, select **Timescale.**
+- [] From the **View** tab on the ribbon, in the **Data** group, select **Filter > More Filters.**
+- [] From the **View** tab on the ribbon, in the **Task Views** group, select **Other Views.**
